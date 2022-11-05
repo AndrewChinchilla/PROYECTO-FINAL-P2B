@@ -1,0 +1,13 @@
+datos\ClietesDAO.class
+datos\UsuarioDAO.class
+test\ManejoClientes.class
+test\ManejoUsuarios.class
+domain\ClietesDTO.class
+datos\AutosDAO.class
+datos\AutosDAOJDBC.class
+domain\AutosDTO.class
+datos\ClietesDAOJDBC.class
+datos\Conexion.class
+domain\UsuarioDTO.class
+datos\UsuarioDAOJDBC.class
+test\ManejoAutos.class
